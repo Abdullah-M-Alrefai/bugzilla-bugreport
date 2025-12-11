@@ -1,1 +1,0 @@
-Bug 424880 - Backout bug 418391 once bug 282432 is fixed
